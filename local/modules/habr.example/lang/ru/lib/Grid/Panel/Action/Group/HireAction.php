@@ -1,0 +1,2 @@
+<?php
+$MESS["HABR_EXAMPLE_GRID_PANEL_ACTION_GROUP_HIRE_NAME"] = "принять обратно";

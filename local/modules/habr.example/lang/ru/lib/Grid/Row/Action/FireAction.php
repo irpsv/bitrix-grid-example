@@ -1,0 +1,3 @@
+<?php
+$MESS["HABR_EXAMPLE_GRID_ROW_ACTION_FIRE_TEXT"] = "уволить";
+$MESS["HABR_EXAMPLE_GRID_ROW_ACTION_FIRE_PROCESS_REQUEST_ERROR"] = "Пример ошибки при обработке запроса";
